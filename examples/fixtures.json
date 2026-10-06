@@ -1,0 +1,1 @@
+{"payment call failed after <*> retries":{"choice":"incident","probability":0.97},"health check completed in <*> ms":{"choice":"routine","probability":0.96}}
